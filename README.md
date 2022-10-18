@@ -2,7 +2,7 @@
 
 
 
-Este é meu primeiro projeto de portfolio, onde treinei minhas habilidades, além de divulgar informações sobre meu perfil profissional.  💻
+Este é meu primeiro projeto de portfolio inspirado no "MapaDev Week", onde treinei minhas habilidades, além de divulgar informações sobre meu perfil profissional.  💻
 
 ------
 
